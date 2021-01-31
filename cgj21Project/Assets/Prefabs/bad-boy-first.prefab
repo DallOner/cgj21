@@ -42,6 +42,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerCol: 0
+  enemySpeed: 0.5
 --- !u!1001 &5374495106648444492
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -111,7 +112,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: a987a26f36a8c374296ab47881f26334, type: 2}
     - target: {fileID: 919132149155446097, guid: 5105fef0b009c554bade7edb148ee82b, type: 3}
       propertyPath: m_Name
-      value: bad-boy
+      value: bad-boy-first
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5105fef0b009c554bade7edb148ee82b, type: 3}
       propertyPath: m_TagString
