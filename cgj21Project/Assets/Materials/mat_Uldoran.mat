@@ -56,15 +56,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Brightness: 6
+    - _Brightness: 10
     - _BumpScale: 1
     - _CLAMPOUT: 0
     - _Cutoff: 0.5
-    - _Darkmatter: 28
+    - _Darkmatter: 50
     - _DetailNormalMapScale: 1
     - _Distfading: 80
     - _DstBlend: 0
-    - _Formuparam: 503.2
+    - _Formuparam: 500
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -73,7 +73,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Saturation: 70
+    - _Saturation: 50
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -82,7 +82,7 @@ Material:
     - _UVSec: 0
     - _Volsteps: 20
     - _ZWrite: 1
-    - _Zoom: 800
+    - _Zoom: 1000
     m_Colors:
     - _Center: {r: 1, g: 0.3, b: 0.5, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
